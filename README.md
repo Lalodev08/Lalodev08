@@ -2,10 +2,6 @@
 
 <h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lalodev08&style=flat-square&color=blueviolet" alt="visualizações do perfil" />
-</p>
-
 <br>
 
 ## 🚀 Sobre mim
