@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 
-<!--
-**Lalodev08/Lalodev08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lalodev08&style=flat-square&color=blueviolet" alt="visualizações do perfil" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🚀 Sobre mim
+
+- 🔄 Migrei recentemente da área de **Educação Física** para a **Tecnologia**
+- 🧭 Estou no início da jornada, explorando diferentes áreas da programação para descobrir meu nicho
+- 🌱 No momento, estudando **Python**, **HTML/CSS** e **SQL Server**
+- ✍️ Documentando aqui meu progresso e os projetos que vou desenvolvendo durante o curso
+- 🤝 Aberto a trocas, dicas e oportunidades de aprendizado com a comunidade dev
+
+<br>
+
+## 🛠️ Tecnologias que estou aprendendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,mssql,git,github,vscode" alt="ícones de tecnologias" />
+</p>
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalodev08&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalodev08&theme=radical&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+<br>
+
+## 📌 Projetos em destaque
+
+> Em breve! Conforme eu for desenvolvendo projetos no curso, vou fixar os melhores aqui.
+
+<br>
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.instagram.com/lalo_manhaes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
